@@ -1,0 +1,283 @@
+[
+    {
+        "phone-number":"+91 74050 78292",
+        "jaychem-phone-number":"+91 98241 80136",
+        "whatsapp-number": "917405078292",
+        "email-address": "info@jaylifesciences.com",
+        "jaychem-email-address": "info@jaychem.in",
+        "company-address": "Plot No. 6713-6714/1, Near Jitali Chokadi, GIDC Industrial Estate, Ankleshwar (GJ) – 393002, India",
+        "short-address": "Plot No. 6713-6714/1, GIDC Industrial Estate, Ankleshwar (GJ) – 393002, IN",
+        "factory-address": "Plot 5184-5185, Nr. 66kv Substation, GIDC Industrial Estate, Ankleshwar (GJ) – 393002, India",
+        "product-categories": [
+            { "id": 1, "category-name": "Pharma Intermediates" },
+            { "id": 2, "category-name": "Dyes and Intermediates" },
+            { "id": 3, "category-name": "Under Development" }
+        ],
+        "products": [
+            {
+                "id": 1,
+                "product-category": 1,
+                "product-name": "Veratric Acid",
+                "cas-no": "93-07-2"
+            },
+            {
+                "id": 2,
+                "product-category": 1,
+                "product-name": "4 Hydrazino Benzoic Acid",
+                "cas-no": "619-67-0"
+            },
+            {
+                "id": 3,
+                "product-category": 1,
+                "product-name": "2-Bromo-3'-chloropropiophenone",
+                "cas-no": "34911-51-8"
+            },
+            {
+                "id": 4,
+                "product-category": 1,
+                "product-name": "4-(4-Aminophenyl) morpholin-3-one",
+                "cas-no": "438056-69-0"
+            },
+            {
+                "id": 5,
+                "product-category": 1,
+                "product-name": "5-Chlorothiophene-2-Carboxylic acid",
+                "cas-no": "24065-33-6"
+            },
+            {
+                "id": 6,
+                "product-category": 1,
+                "product-name": "(S)-N-Glycidylphthalimide",
+                "cas-no": "161596-47-0"
+            },
+            {
+                "id": 7,
+                "product-category": 1,
+                "product-name": "(S)-4-(4-(5-(Aminomethyl)-2-oxooxazolidin-3-yl)phenyl)morpholin-3-one hydrochloride",
+                "cas-no": "898543-06-1"
+            },
+            {
+                "id": 8,
+                "product-category": 1,
+                "product-name": "(S)-4-(4-(5-(aminomethyl)-2-oxooxazolidin-3-yl)phenyl)morpholin-3-one Hydrochloride",
+                "cas-no": "898543-06-1"
+            },
+            {
+                "id": 9,
+                "product-category": 1,
+                "product-name": "(S)-2-((2-oxo-3-(4-(3-oxomorpholino)phenyl) oxazolidin-5-yl) methyl)isoindoline-1,3-dione",
+                "cas-no": "446292-08-6"
+            },
+            {
+                "id": 10,
+                "product-category": 1,
+                "product-name": "4-Chlorophenyl-2-bromomethyl ketone",
+                "cas-no": "877-37-2"
+            },
+            {
+                "id": 11,
+                "product-category": 1,
+                "product-name": "Ethyl-2-Bromopropionate",
+                "cas-no": "535-11-5"
+            },
+            {
+                "id": 12,
+                "product-category": 1,
+                "product-name": "2-Bromo-1-(p-Toly) Propan-1-One",
+                "cas-no": "1451-82-7"
+            },
+            {
+                "id": 13,
+                "product-category": 1,
+                "product-name": "2-Bromomethyl-1,3-Dioxolane",
+                "cas-no": "4360-63-8"
+            },
+            {
+                "id": 14,
+                "product-category": 1,
+                "product-name": "P Anisic Acid",
+                "cas-no": "100-09-4"
+            },
+            {
+                "id": 15,
+                "product-category": 1,
+                "product-name": "Mono Bromoacetic Acid",
+                "cas-no": "79-08-3"
+            },
+            {
+                "id": 16,
+                "product-category": 1,
+                "product-name": "2-Bromo-1-phenyl-pentan-1-One",
+                "cas-no": "49851-31-2"
+            },
+            {
+                "id": 17,
+                "product-category": 1,
+                "product-name": "5-Chloro-2-Methoxy Benzoic Acid",
+                "cas-no": "3438-16-2"
+            },
+            {
+                "id": 18,
+                "product-category": 1,
+                "product-name": "N-ethyl-2-(4-formylphenyl)acetamide",
+                "cas-no": "2477812-42-1"
+            },
+            {
+                "id": 19,
+                "product-category": 1,
+                "product-name": "2-Aminoacetophenone",
+                "cas-no": "551-93-9"
+            },
+            {
+                "id": 20,
+                "product-category": 1,
+                "product-name": "Ethyl 2-(3-cyano-4-isobutoxyphenyl)-4-methyl-5-thiazole carboxylate",
+                "cas-no": "160844-75-7"
+            },
+            {
+                "id": 21,
+                "product-category": 1,
+                "product-name": "1-Piperazin-1-yldibenzo[b,f][1,4]thiazepine",
+                "cas-no": "753475-15-9"
+            },
+            {
+                "id": 22,
+                "product-category": 1,
+                "product-name": "2-Hydroxy-5-Methylpyridine",
+                "cas-no": "1003-68-5"
+            },
+            {
+                "id": 23,
+                "product-category": 1,
+                "product-name": "4-Hydroxypyridine-3-sulfonic acid",
+                "cas-no": "51498-37-4"
+            },
+            {
+                "id": 24,
+                "product-category": 1,
+                "product-name": "4 Methoxy 3 Fluoro Acetophenone",
+                "cas-no": "455-91-4"
+            },
+            {
+                "id": 25,
+                "product-category": 1,
+                "product-name": "2-(2-Hydroxyphenyl)-4H-1,3-benzoxazin-4-one",
+                "cas-no": "1218-69-5"
+            },
+            {
+                "id": 26,
+                "product-category": 1,
+                "product-name": "2 Hydroxy Pyridine",
+                "cas-no": "142-08-5"
+            },
+            {
+                "id": 27,
+                "product-category": 1,
+                "product-name": "P Anisoyl Chloride",
+                "cas-no": "100-07-2"
+            },
+            {
+                "id": 28,
+                "product-category": 1,
+                "product-name": "1-(4-Fluorophenyl)-4,4,4-Trifluoro-Butane-1,3-Dione",
+                "cas-no": "582-65-0"
+            },
+            {
+                "id": 29,
+                "product-category": 1,
+                "product-name": "4,4-Difluoro-1-(3-fluoro-4-methoxyphenyl)-1,3-Butanedione",
+                "cas-no": "170570-77-1"
+            },
+            {
+                "id": 30,
+                "product-category": 1,
+                "product-name": "4-(2-(Dimethylamino) Ethoxy)Benzyl Amine",
+                "cas-no": "20059-73-8"
+            },
+            {
+                "id": 31,
+                "product-category": 3,
+                "product-name": "Labetalol Intermediates",
+                "cas-no": ""
+            },
+            {
+                "id": 32,
+                "product-category": 3,
+                "product-name": "Linagliptin Intermediates",
+                "cas-no": ""
+            },
+            {
+                "id": 33,
+                "product-category": 3,
+                "product-name": "Dabigatran Intermediates",
+                "cas-no": ""
+            },
+            {
+                "id": 34,
+                "product-category": 3,
+                "product-name": "Dapagliflozin Intermediates",
+                "cas-no": ""
+            },
+            {
+                "id": 35,
+                "product-category": 3,
+                "product-name": "Empagliflozin Intermediates",
+                "cas-no": ""
+            },
+            {
+                "id": 36,
+                "product-category": 2,
+                "product-name": "Auramine O (Basic Yellow 2)",
+                "cas-no": "2465-27-2"
+            },
+            {
+                "id": 37,
+                "product-category": 2,
+                "product-name": "Acid Orange II",
+                "cas-no": "633-96-5"
+            },
+            {
+                "id": 38,
+                "product-category": 2,
+                "product-name": "Rhodamine B",
+                "cas-no": "81-88-9"
+            },
+            {
+                "id": 39,
+                "product-category": 2,
+                "product-name": "Methyl Violet IIB",
+                "cas-no": "8004-87-3"
+            },
+            {
+                "id": 40,
+                "product-category": 2,
+                "product-name": "Acid Metanil Yellow",
+                "cas-no": "587-98-4"
+            },
+            {
+                "id": 41,
+                "product-category": 2,
+                "product-name": "Basic Chrysoidin R",
+                "cas-no": "4438-16-8"
+            },
+            {
+                "id": 42,
+                "product-category": 2,
+                "product-name": "Basic Chrysoidin Y",
+                "cas-no": "532-82-1"
+            },
+            {
+                "id": 43,
+                "product-category": 2,
+                "product-name": "Basic Blue 9",
+                "cas-no": "61-73-4"
+            },
+            {
+                "id": 44,
+                "product-category": 2,
+                "product-name": "Methyl Violet",
+                "cas-no": "52080-58-7"
+            }
+        ]
+    }
+]
